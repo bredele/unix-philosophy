@@ -54,3 +54,63 @@ they will drive you into a wall!
 	Encourage simple and beautiful programs.
 </div> 
 <div class="green center bold">Stupid is as stupid does.</div>
+
+--
+
+# Examples
+
+
+```javascript
+
+/**
+ * I am an idiot and I don't
+ * know JavaScript.
+ *
+ * @param  {Boolean} idiot
+ * @return {Boolean}
+ */
+
+function iaman(idiot) {
+	if(idiot === true) {
+	  return true;
+	} else if(idiot === false) {
+	  return false;
+	}
+}
+
+
+/**
+ * I am a JAVA developer and I
+ * don't know some JS basics such as
+ * truthy or falsy values.
+ *
+ * @param  {Any} basics
+ */
+
+function idonotknow(basics) {
+	if(typeof basics !== 'undefined' && basics !== false && basics !== 0) {
+	  // I do not know JAVA either
+  }
+}
+
+```
+
+--
+
+# Rule of clarity
+
+<div class="center">Maintenance is expensive!</div>
+<br>
+<br>
+<br>
+<div class="center">
+	Code that is graceful and clear is less likely to be break.
+</div>
+
+
+--
+
+# My own rule : be stupid!
+
+* 15 lines of code max / function
+* Do not make assumptions

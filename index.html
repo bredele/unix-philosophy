@@ -618,6 +618,58 @@ The unix philosophy is some kind of early meditation about how to design system 
 </div> 
 <div class="green center bold">Stupid is as stupid does.</div></section>
   </div>
+  <div class="slide hidden" id="slide-7">
+    <section class="slide-content"><pre><code class="lang-javascript">
+<span class="comment">/**
+ * I am an idiot and I don't
+ * know JavaScript.
+ *
+ * @param  {Boolean} idiot
+ * @return {Boolean}
+ */</span>
+
+<span class="function"><span class="keyword">function</span> <span class="title">iaman</span><span class="params">(idiot)</span> {</span>
+    <span class="keyword">if</span>(idiot === <span class="literal">true</span>) {
+      <span class="keyword">return</span> <span class="literal">true</span>;
+    } <span class="keyword">else</span> <span class="keyword">if</span>(idiot === <span class="literal">false</span>) {
+      <span class="keyword">return</span> <span class="literal">false</span>;
+    }
+}
+
+
+<span class="comment">/**
+ * I am a JAVA developer and I
+ * don't know some JS basics such as
+ * truthy or falsy values.
+ *
+ * @param  {Any} basics
+ */</span>
+
+<span class="function"><span class="keyword">function</span> <span class="title">idonotknow</span><span class="params">(basics)</span> {</span>
+    <span class="keyword">if</span>(<span class="keyword">typeof</span> basics !== <span class="string">'undefined'</span> &amp;&amp; basics !== <span class="literal">false</span> &amp;&amp; basics !== <span class="number">0</span>) {
+      <span class="comment">// I do not know JAVA either</span>
+  }
+}</code></pre>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-8">
+    <section class="slide-content"><h1 id="rule-of-clarity">Rule of clarity</h1>
+<div class="center">Maintenance is expensive!</div>
+<br>
+<br>
+<br>
+<div class="center">
+    Code that is graceful and clear is less likely to be break.
+</div></section>
+  </div>
+  <div class="slide hidden" id="slide-9">
+    <section class="slide-content"><h1 id="my-own-rule-be-stupid-">My own rule : be stupid!</h1>
+<ul>
+<li>15 lines of code max / function</li>
+<li>Do not make assumptions</li>
+</ul>
+</section>
+  </div>
 
 
   <script type="text/javascript">
