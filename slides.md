@@ -152,7 +152,7 @@ function idonotknow(basics) {
 * tight coupled views
 * no separation of concerns
 * complicated models and collections of complicated models
-* JavaScript is not just about objects
+
 
 <div class="red bold">I withdraw what I just said, developers suck!</div>
 
@@ -166,13 +166,29 @@ function idonotknow(basics) {
 --
 
 # Rule of composition
-
-
-
+<div class="center">To make programs composable, make them independant.</div>
+<br>
+<br>
+<br>
+<div class="center">Composable programs are independent programs with well-defined interfaces.</div>
+<div class="bold center green">JavaScript is not just about objects</div>
 --
 
 
 # Rule of modularity
+<div class="center">Controlling complexity is the essence of computer programming.</div>
+<br>
+<br>
+<br>
+<div class="center">
+	Write complex software by holding the complexity down.
+</div>
+<div class="bold center green">Do one thing and do it well.</div>
+--
 
 
+# Other rules
+
+
+[brick](http://github.com/bredele/brickjs)
 --
