@@ -26,11 +26,11 @@ controls: false
 # Introduction
 
 <br>
-<div class="center">The unix philosophy is some kind of early meditation about how to design system with clean interfaces. </div>
+<div class="center">The unix philosophy is a kind of early meditation on how to design systems with clean interfaces. </div>
 
 -- image
 
-This is your new Bible. Be a hater and say FUCK to:
+This is your new Bible. Be a hater and say FUCK OFF to:
 
 ![polymer](img/polymer-logo.jpg)
 ![angularjs](img/angularjs-logo.png)
@@ -45,7 +45,7 @@ they will drive you into a wall!
 <div class="center">
 	Programmers are proud of their ability to handle complexity and juggle abstractions.
 </div>
-<div class="bold center red">Everybody loses at the end.</div>
+<div class="bold center red">Everybody loses in the end.</div>
 <br>
 <br>
 <br>
@@ -104,7 +104,7 @@ function idonotknow(basics) {
 <br>
 <br>
 <div class="center">
-	Code that is graceful and clear is less likely to be break.
+	Code that is graceful and clear is less likely to break.
 </div>
 
 
@@ -117,18 +117,18 @@ function idonotknow(basics) {
 <br>
 * 15 lines of code max / function
 * Do not make assumptions
-* Do not mixup refactoring and premature optimization
+* Do not confuse refactoring and premature optimization
 
 
 --
 
 # Rule of least surprises
-<div class="center">Always do the least surprising</div>
+<div class="center">Always do the least surprising thing</div>
 <br>
 <br>
 <br>
 <div class="center">
-	The easiest programs are those that demand the least new learning from the user.
+	The best programs are those that demand the least new learning from the user.
 </div>
 
 --
@@ -141,7 +141,7 @@ function idonotknow(basics) {
 <br>
 <br>
 <div class="center">
-	Choose the right data structures and organizes things well, the code will almost be self-evident.
+	Choose the right data structures and organize things well, the code will almost be self-evident.
 </div>
 <div class="bold center green">[Datastore](http://github.com/bredele/feathers) and [feathers](https://github.com/feathersjs).</div>
 
@@ -202,4 +202,13 @@ function idonotknow(basics) {
 * Rule of Optimization
 * Rule of Diversity
 * Rule of Extensibility
+--
+
+# Go Calgary flames!
+
+
+<br>
+<br>
+<br>
+<div class="green center bold">Grab a beer please :)</div>
 --
