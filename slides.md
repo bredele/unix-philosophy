@@ -117,6 +117,7 @@ function idonotknow(basics) {
 <br>
 * 15 lines of code max / function
 * Do not make assumptions
+* Do not mixup refactoring and premature optimization
 
 
 --
@@ -190,5 +191,15 @@ function idonotknow(basics) {
 # Other rules
 
 
-[brick](http://github.com/bredele/brickjs)
+* Rule of Separation
+* Rule of Parsimony
+* Rule of Transparency
+* Rule of Robustness
+* Rule of Silence
+* Rule of Repair
+* Rule of Economy
+* Rule of Generation
+* Rule of Optimization
+* Rule of Diversity
+* Rule of Extensibility
 --
