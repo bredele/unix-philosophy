@@ -112,5 +112,21 @@ function idonotknow(basics) {
 
 # My own rule : be stupid!
 
+<br>
+<br>
+<br>
 * 15 lines of code max / function
 * Do not make assumptions
+
+
+--
+
+# Rule of least surprises
+<div class="center">Always do the least surprising</div>
+<br>
+<br>
+<br>
+<div class="center">
+	The easiest programs are those that demand the least new learning from the user.
+</div>
+
