@@ -26,7 +26,7 @@ controls: false
 # Introduction
 
 <br>
-The unix philosophy is some kind of early meditation about how to design system with clean interfaces. 
+<div class="center">The unix philosophy is some kind of early meditation about how to design system with clean interfaces. </div>
 
 -- image
 
@@ -130,3 +130,49 @@ function idonotknow(basics) {
 	The easiest programs are those that demand the least new learning from the user.
 </div>
 
+--
+
+# Rule of representation
+
+<div class="center">Fold knowledge into data, so program logic can be stupid and robust</div>
+<div class="bold center red">Model should be at the heart of your applications.</div>
+<br>
+<br>
+<br>
+<div class="center">
+	Choose the right data structures and organizes things well, the code will almost be self-evident.
+</div>
+<div class="bold center green">[Datastore](http://github.com/bredele/feathers) and [feathers](https://github.com/feathersjs).</div>
+
+--
+
+# MVC sucks
+
+* spaghetti code
+* tight coupled views
+* no separation of concerns
+* complicated models and collections of complicated models
+* JavaScript is not just about objects
+
+<div class="red bold">I withdraw what I just said, developers suck!</div>
+
+* don't build your application around this pattern only
+* flatten your achitecture
+* use transitive data
+
+* [brick](http://github.com/bredele/brickjs)
+* [wall](https://github.com/bredele/walls)
+
+--
+
+# Rule of composition
+
+
+
+--
+
+
+# Rule of modularity
+
+
+--
