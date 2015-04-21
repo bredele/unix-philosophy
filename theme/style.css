@@ -149,10 +149,19 @@ ul {
   max-width: 240px;
 }
 
-.image {
+.image, .center {
   text-align:center;
 }
 
+.bold {
+  font-weight: bold;
+}
+.red {
+  color:#DF6868;
+}
+.green {
+  color:#27ae60;
+}
 .image p > img {
   max-width: 600px;
   max-height: 400px;
